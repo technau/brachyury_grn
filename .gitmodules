@@ -1,0 +1,9 @@
+[submodule "gene_regulatory_network"]
+	path = gene_regulatory_network
+	url = https://github.com/dnyansagar/gene_regulatory_network
+[submodule "MouseEmbryoSingleCell"]
+	path = MouseEmbryoSingleCell
+	url = https://github.com/xxxmichixxx/MouseEmbryoSingleCell
+[submodule "gbuehler-MiniChip"]
+	path = gbuehler-MiniChip
+	url = https://github.com/fmi-basel/gbuehler-MiniChip
